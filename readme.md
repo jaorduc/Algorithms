@@ -33,7 +33,7 @@ I try to put all the different references, however, if I miss any bibliography o
 
 ## Folders
 This repository contains other folders such as
-1) [ciphers_A](https://github.com/jaorduc/cryptoClassic/tree/main/A1/insertionSort.py)
+1) [Algorithms](https://github.com/jaorduc/Algorithms/tree/main/A1)
 
 Following you find some exercises, activities, and references shared during the sessions.
 
