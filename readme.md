@@ -33,7 +33,10 @@ I try to put all the different references, however, if I miss any bibliography o
 
 ## Folders
 This repository contains other folders such as
-1) [Algorithms](https://github.com/jaorduc/Algorithms/tree/main/A1)
+1) [A1_Algorithms](https://github.com/jaorduc/Algorithms/tree/main/A1)
+1) Matrix Multiplication
+1) BFS
+1) DFS
 
 Following you find some exercises, activities, and references shared during the sessions.
 
